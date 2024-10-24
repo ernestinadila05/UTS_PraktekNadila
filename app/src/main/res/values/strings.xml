@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nadila</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="patient_self_com">patient@self.com</string>
+    <string name="email">Email</string>
+    <string name="nadila">..................</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+</resources>
